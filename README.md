@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Currently working on my own website: <a href="https://ondranagr.cz/" target="_blank">ondranagr.cz</a>  <br>🎓 I'm currently studying at a grammar school  <br>📈 Working as a web developer since 2022</p>
+<p align="left">🚀 Currently working on: <a href="https://kesseboehmer.cz/" target="_blank">kesseboehmer.cz</a>  <br>🎓 I'm currently studying at a grammar school  <br>📈 Working as a web developer since 2022</p>
 
 ###
 
